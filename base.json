@@ -3,6 +3,10 @@
     "red": "#f00",
     "green": "#0f0",
     "blue": "#00f",
-    "yellow": "#ff0"
+    "yellow": "#ff0",
+    "cyan": "#0ff",
+    "magenta": "#f0f",
+    "white": "#fff",
+    "black": "#000"
   }
 }
