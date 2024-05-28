@@ -1,1 +1,6 @@
-
+{
+  "colors": {
+    "primary": "#eb2326",
+    "secondary": "#0055B7"
+  }
+}
