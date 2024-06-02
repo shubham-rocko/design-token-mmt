@@ -1,8 +1,8 @@
 {
   "colors": {
     "red100": "rgb(237, 121, 121)",
-    "primary": "rgb(218, 215, 215)",
-    "secondary": "rgb(0, 183, 160)",
+    "primary": "rgb(60, 45, 187)",
+    "secondary": "rgb(202, 202, 202)",
     "disabled": "rgb(181, 181, 181)",
     "yello200": "rgb(208, 197, 100)",
     "cyan400": "rgb(75, 209, 218)",
